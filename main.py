@@ -1,8 +1,8 @@
 class Pelakas :
     def __init__(self):
         pass
-    def Bet ():
-        return
+    def Bet (self):
+        return 'bet moni'
     def Pau ():
         return
     def Eric ():
