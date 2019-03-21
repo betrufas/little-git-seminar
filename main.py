@@ -1,3 +1,4 @@
+import os
 class Pelakas :
     def __init__(self):
         pass
@@ -9,8 +10,9 @@ class Pelakas :
         return
     def Molina ():
         return
-    def POl ():
-        return
+    def POl (self):
+	os.system("clear")
+        return "Pol Pérez, the only one"
     def Azemar ():
         return
     def Dimas ():
