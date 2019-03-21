@@ -1,3 +1,4 @@
+
 class Pelakas :
     def __init__(self):
         pass
@@ -5,8 +6,8 @@ class Pelakas :
         return
     def Pau ():
         return
-    def Eric ():
-        return
+    def Eric (self):
+        return "Eric"
     def Molina ():
         return
     def POl ():
