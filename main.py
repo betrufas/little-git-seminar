@@ -7,8 +7,8 @@ class Pelakas :
         return
     def Eric ():
         return
-    def Molina ():
-        return
+    def Molina (self):
+        return 'el dia 19 voy solo a un concierto que alguien mas venga porfa'
     def POl ():
         return
     def Azemar ():
