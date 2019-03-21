@@ -2,7 +2,7 @@ class Pelakas :
     def __init__(self):
         pass
     def Bet ():
-        return
+        return 
     def Pau ():
         return
     def Eric ():
@@ -13,5 +13,5 @@ class Pelakas :
         return
     def Azemar ():
         return
-    def Dimas ():
-        return
+    def Dimas (self):
+        return "Dimas"
